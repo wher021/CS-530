@@ -1,0 +1,635 @@
+# depslib dependency file v1.0
+1394954077 source:c:\users\willy\documents\codeblocks\hw33\file_parser.cc
+	"file_parser.h"
+	"file_parse_exception.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<ctype.h>
+	<sstream>
+
+1393233330 c:\users\willy\documents\codeblocks\hw33\file_parser.h
+	<string>
+	<vector>
+
+1392543018 c:\users\willy\documents\codeblocks\hw33\file_parse_exception.h
+	<string>
+
+1394426935 source:c:\users\willy\documents\codeblocks\hw33\opcodetab.cc
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	<iostream>
+
+1395373274 c:\users\willy\documents\codeblocks\hw33\opcodetab.h
+	<map>
+	<string>
+
+1394081577 c:\users\willy\documents\codeblocks\hw33\opcode_error_exception.h
+	<string>
+
+1395373242 source:c:\users\willy\documents\codeblocks\hw33\sicxe_asm.cpp
+	"sicxe_asm.h"
+
+1395373237 c:\users\willy\documents\codeblocks\hw33\sicxe_asm.h
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	"file_parser.h"
+	"file_parse_exception.h"
+	"symtab.h"
+	<iostream>
+
+1395373061 source:c:\users\willy\documents\codeblocks\hw33\symtab.cc
+	"symtab.h"
+
+1395372863 c:\users\willy\documents\codeblocks\hw33\symtab.h
+	<string>
+	<vector>
+	<map>
+	<iostream>
+
+1395441994 source:c:\users\jeff\desktop\hw33\file_parser.cc
+	"file_parser.h"
+	"file_parse_exception.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<ctype.h>
+	<sstream>
+
+1393233330 c:\users\jeff\desktop\hw33\file_parser.h
+	<string>
+	<vector>
+
+1392543018 c:\users\jeff\desktop\hw33\file_parse_exception.h
+	<string>
+
+1394426935 source:c:\users\jeff\desktop\hw33\opcodetab.cc
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	<iostream>
+
+1395437057 c:\users\jeff\desktop\hw33\opcodetab.h
+	<map>
+	<string>
+
+1394081577 c:\users\jeff\desktop\hw33\opcode_error_exception.h
+	<string>
+
+1395447634 source:c:\users\jeff\desktop\hw33\sicxe_asm.cpp
+	"sicxe_asm.h"
+
+1395449289 c:\users\jeff\desktop\hw33\sicxe_asm.h
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	"file_parser.h"
+	"file_parse_exception.h"
+	"symtab.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+
+1395437275 c:\users\jeff\desktop\hw33\symtab.h
+	<string>
+	<vector>
+	<map>
+	<iostream>
+
+1395437246 source:c:\users\jeff\desktop\hw33\symtab.cc
+	"symtab.h"
+
+1395441994 source:c:\users\jeff\desktop\hw3_v2\file_parser.cc
+	"file_parser.h"
+	"file_parse_exception.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<ctype.h>
+	<sstream>
+
+1393233330 c:\users\jeff\desktop\hw3_v2\file_parser.h
+	<string>
+	<vector>
+
+1392543018 c:\users\jeff\desktop\hw3_v2\file_parse_exception.h
+	<string>
+
+1394426935 source:c:\users\jeff\desktop\hw3_v2\opcodetab.cc
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	<iostream>
+
+1395437057 c:\users\jeff\desktop\hw3_v2\opcodetab.h
+	<map>
+	<string>
+
+1394081577 c:\users\jeff\desktop\hw3_v2\opcode_error_exception.h
+	<string>
+
+1395463559 source:c:\users\jeff\desktop\hw3_v2\sicxe_asm.cpp
+	"sicxe_asm.h"
+
+1395466970 c:\users\jeff\desktop\hw3_v2\sicxe_asm.h
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	"file_parser.h"
+	"file_parse_exception.h"
+	"symtab.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+
+1395458954 c:\users\jeff\desktop\hw3_v2\symtab.h
+	<string>
+	<vector>
+	<map>
+	<iostream>
+
+1395458787 source:c:\users\jeff\desktop\hw3_v2\symtab.cc
+	"symtab.h"
+
+1395441994 source:c:\users\jeff\desktop\hw3_v3\file_parser.cc
+	"file_parser.h"
+	"file_parse_exception.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<ctype.h>
+	<sstream>
+
+1393233330 c:\users\jeff\desktop\hw3_v3\file_parser.h
+	<string>
+	<vector>
+
+1392543018 c:\users\jeff\desktop\hw3_v3\file_parse_exception.h
+	<string>
+
+1394426935 source:c:\users\jeff\desktop\hw3_v3\opcodetab.cc
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	<iostream>
+
+1395437057 c:\users\jeff\desktop\hw3_v3\opcodetab.h
+	<map>
+	<string>
+
+1394081577 c:\users\jeff\desktop\hw3_v3\opcode_error_exception.h
+	<string>
+
+1395561545 source:c:\users\jeff\desktop\hw3_v3\sicxe_asm.cpp
+	"sicxe_asm.h"
+
+1395561917 c:\users\jeff\desktop\hw3_v3\sicxe_asm.h
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	"file_parser.h"
+	"file_parse_exception.h"
+	"symtab.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+
+1395532379 c:\users\jeff\desktop\hw3_v3\symtab.h
+	<string>
+	<vector>
+	<map>
+	<iostream>
+
+1395532473 source:c:\users\jeff\desktop\hw3_v3\symtab.cc
+	"symtab.h"
+
+1395441994 source:c:\users\jeff\desktop\hw3_v5\file_parser.cc
+	"file_parser.h"
+	"file_parse_exception.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<ctype.h>
+	<sstream>
+
+1393233330 c:\users\jeff\desktop\hw3_v5\file_parser.h
+	<string>
+	<vector>
+
+1392543018 c:\users\jeff\desktop\hw3_v5\file_parse_exception.h
+	<string>
+
+1394426935 source:c:\users\jeff\desktop\hw3_v5\opcodetab.cc
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	<iostream>
+
+1395562487 c:\users\jeff\desktop\hw3_v5\opcodetab.h
+	<map>
+	<string>
+
+1394081577 c:\users\jeff\desktop\hw3_v5\opcode_error_exception.h
+	<string>
+
+1395564833 source:c:\users\jeff\desktop\hw3_v5\symtab.cc
+	"symtab.h"
+
+1395562854 c:\users\jeff\desktop\hw3_v5\symtab.h
+	<string>
+	<vector>
+	<map>
+	<iostream>
+
+1395562384 source:c:\users\jeff\desktop\hw3_v5\sicxe_asm.cpp
+	"sicxe_asm.h"
+
+1395616864 c:\users\jeff\desktop\hw3_v5\sicxe_asm.h
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	"file_parser.h"
+	"file_parse_exception.h"
+	"symtab.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+
+1395441994 source:c:\users\willy\documents\codeblocks\hw3_v5\hw3_v5\file_parser.cc
+	"file_parser.h"
+	"file_parse_exception.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<ctype.h>
+	<sstream>
+
+1393233330 c:\users\willy\documents\codeblocks\hw3_v5\hw3_v5\file_parser.h
+	<string>
+	<vector>
+
+1392543018 c:\users\willy\documents\codeblocks\hw3_v5\hw3_v5\file_parse_exception.h
+	<string>
+
+1394426935 source:c:\users\willy\documents\codeblocks\hw3_v5\hw3_v5\opcodetab.cc
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	<iostream>
+
+1395562487 c:\users\willy\documents\codeblocks\hw3_v5\hw3_v5\opcodetab.h
+	<map>
+	<string>
+
+1394081577 c:\users\willy\documents\codeblocks\hw3_v5\hw3_v5\opcode_error_exception.h
+	<string>
+
+1395562384 source:c:\users\willy\documents\codeblocks\hw3_v5\hw3_v5\sicxe_asm.cpp
+	"sicxe_asm.h"
+
+1395629253 c:\users\willy\documents\codeblocks\hw3_v5\hw3_v5\sicxe_asm.h
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	"file_parser.h"
+	"file_parse_exception.h"
+	"symtab.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+
+1395562854 c:\users\willy\documents\codeblocks\hw3_v5\hw3_v5\symtab.h
+	<string>
+	<vector>
+	<map>
+	<iostream>
+
+1395564833 source:c:\users\willy\documents\codeblocks\hw3_v5\hw3_v5\symtab.cc
+	"symtab.h"
+
+1395441994 source:c:\users\willy\documents\codeblocks\hw3_v5_w\file_parser.cc
+	"file_parser.h"
+	"file_parse_exception.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<ctype.h>
+	<sstream>
+
+1395631458 c:\users\willy\documents\codeblocks\hw3_v5_w\file_parser.h
+	<string>
+	<vector>
+
+1392543018 c:\users\willy\documents\codeblocks\hw3_v5_w\file_parse_exception.h
+	<string>
+
+1394426935 source:c:\users\willy\documents\codeblocks\hw3_v5_w\opcodetab.cc
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	<iostream>
+
+1395631112 c:\users\willy\documents\codeblocks\hw3_v5_w\opcodetab.h
+	<map>
+	<string>
+
+1394081577 c:\users\willy\documents\codeblocks\hw3_v5_w\opcode_error_exception.h
+	<string>
+
+1395632003 source:c:\users\willy\documents\codeblocks\hw3_v5_w\sicxe_asm.cpp
+	"sicxe_asm.h"
+
+1395631838 c:\users\willy\documents\codeblocks\hw3_v5_w\sicxe_asm.h
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	"file_parser.h"
+	"file_parse_exception.h"
+	"symtab.h"
+	"symtab_exception.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+
+1395631469 c:\users\willy\documents\codeblocks\hw3_v5_w\symtab.h
+	<string>
+	<vector>
+	<map>
+	<iostream>
+
+1395631962 source:c:\users\willy\documents\codeblocks\hw3_v5_w\symtab.cc
+	"symtab.h"
+
+1395631490 c:\users\willy\documents\codeblocks\hw3_v5_w\symtab_exception.h
+	<string>
+
+1395441994 source:c:\users\jeff\desktop\hw3_v6\file_parser.cc
+	"file_parser.h"
+	"file_parse_exception.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<ctype.h>
+	<sstream>
+
+1395631458 c:\users\jeff\desktop\hw3_v6\file_parser.h
+	<string>
+	<vector>
+
+1392543018 c:\users\jeff\desktop\hw3_v6\file_parse_exception.h
+	<string>
+
+1395632662 source:c:\users\jeff\desktop\hw3_v6\opcodetab.cc
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	<iostream>
+
+1395632657 c:\users\jeff\desktop\hw3_v6\opcodetab.h
+	<map>
+	<string>
+
+1395632654 c:\users\jeff\desktop\hw3_v6\opcode_error_exception.h
+	<string>
+
+1395632003 source:c:\users\jeff\desktop\hw3_v6\sicxe_asm.cpp
+	"sicxe_asm.h"
+
+1395638907 c:\users\jeff\desktop\hw3_v6\sicxe_asm.h
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	"file_parser.h"
+	"file_parse_exception.h"
+	"symtab.h"
+	"symtab_exception.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+
+1395637229 c:\users\jeff\desktop\hw3_v6\symtab.h
+	"symtab_exception.h"
+	<string>
+	<vector>
+	<map>
+	<iostream>
+
+1395631490 c:\users\jeff\desktop\hw3_v6\symtab_exception.h
+	<string>
+
+1395637249 source:c:\users\jeff\desktop\hw3_v6\symtab.cc
+	"symtab.h"
+
+1395632662 source:c:\users\jeff\desktop\hw3_v7\opcodetab.cc
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	<iostream>
+
+1395632657 c:\users\jeff\desktop\hw3_v7\opcodetab.h
+	<map>
+	<string>
+
+1395639104 c:\users\jeff\desktop\hw3_v7\opcode_error_exception.h
+	<string>
+
+1395722128 source:c:\users\jeff\desktop\hw3_v7\symtab.cc
+	"symtab.h"
+
+1395720982 c:\users\jeff\desktop\hw3_v7\symtab.h
+	"symtab_exception.h"
+	<string>
+	<vector>
+	<map>
+	<iostream>
+
+1395639135 c:\users\jeff\desktop\hw3_v7\symtab_exception.h
+	<string>
+
+1395722805 source:c:\users\jeff\desktop\hw3_v7\file_parser.cc
+	"file_parser.h"
+	"file_parse_exception.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<ctype.h>
+	<sstream>
+
+1395639058 c:\users\jeff\desktop\hw3_v7\file_parser.h
+	<string>
+	<vector>
+
+1395639080 c:\users\jeff\desktop\hw3_v7\file_parse_exception.h
+	<string>
+
+1395722584 source:c:\users\jeff\desktop\hw3_v7\sicxe_asm.cpp
+	"sicxe_asm.h"
+
+1395719799 c:\users\jeff\desktop\hw3_v7\sicxe_asm.h
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	"file_parser.h"
+	"file_parse_exception.h"
+	"symtab.h"
+	"symtab_exception.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+
+1395632662 source:c:\users\jeff\desktop\hw3_v9\opcodetab.cc
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	<iostream>
+
+1395632657 c:\users\jeff\desktop\hw3_v9\opcodetab.h
+	<map>
+	<string>
+
+1395639104 c:\users\jeff\desktop\hw3_v9\opcode_error_exception.h
+	<string>
+
+1395722128 source:c:\users\jeff\desktop\hw3_v9\symtab.cc
+	"symtab.h"
+
+1395720982 c:\users\jeff\desktop\hw3_v9\symtab.h
+	"symtab_exception.h"
+	<string>
+	<vector>
+	<map>
+	<iostream>
+
+1395639135 c:\users\jeff\desktop\hw3_v9\symtab_exception.h
+	<string>
+
+1395722977 source:c:\users\jeff\desktop\hw3_v9\file_parser.cc
+	"file_parser.h"
+	"file_parse_exception.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<ctype.h>
+	<sstream>
+
+1395639058 c:\users\jeff\desktop\hw3_v9\file_parser.h
+	<string>
+	<vector>
+
+1395639080 c:\users\jeff\desktop\hw3_v9\file_parse_exception.h
+	<string>
+
+1395798744 source:c:\users\jeff\desktop\hw3_v9\sicxe_asm.cpp
+	"sicxe_asm.h"
+
+1395719799 c:\users\jeff\desktop\hw3_v9\sicxe_asm.h
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	"file_parser.h"
+	"file_parse_exception.h"
+	"symtab.h"
+	"symtab_exception.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+
+1397759166 source:c:\users\jeff\desktop\hw4\file_parser.cc
+	"file_parser.h"
+	"file_parse_exception.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<ctype.h>
+	<sstream>
+
+1397615127 c:\users\jeff\desktop\hw4\file_parser.h
+	<string>
+	<vector>
+
+1397615105 c:\users\jeff\desktop\hw4\file_parse_exception.h
+	<string>
+
+1397615087 source:c:\users\jeff\desktop\hw4\opcodetab.cc
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	<iostream>
+
+1397615061 c:\users\jeff\desktop\hw4\opcodetab.h
+	<map>
+	<string>
+
+1397615139 c:\users\jeff\desktop\hw4\opcode_error_exception.h
+	<string>
+
+1397615067 source:c:\users\jeff\desktop\hw4\symtab.cc
+	"symtab.h"
+
+1397615072 c:\users\jeff\desktop\hw4\symtab.h
+	"symtab_exception.h"
+	<string>
+	<vector>
+	<map>
+	<iostream>
+
+1397615132 c:\users\jeff\desktop\hw4\symtab_exception.h
+	<string>
+
+1397943766 source:c:\users\jeff\desktop\hw4\sicxe_asm.cpp
+	"sicxe_asm.h"
+
+1397943471 c:\users\jeff\desktop\hw4\sicxe_asm.h
+	"opcodetab.h"
+	"opcode_error_exception.h"
+	"file_parser.h"
+	"file_parse_exception.h"
+	"symtab.h"
+	"symtab_exception.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<cstdlib>
+	<iomanip>
+	<algorithm>
+
